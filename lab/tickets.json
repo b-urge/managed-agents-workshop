@@ -1,0 +1,58 @@
+[
+  {
+    "id": "T-1001",
+    "customer_id": "C-101",
+    "created": "2026-09-21",
+    "subject": "Dashboard slow to load since Monday",
+    "body": "The main dashboard takes 20-30 seconds to load for our team. It was fine last week."
+  },
+  {
+    "id": "T-1002",
+    "customer_id": "C-102",
+    "created": "2026-09-23",
+    "subject": "SSO login failing for all users",
+    "body": "Nobody on our team can log in through Okta since this morning. We're completely locked out."
+  },
+  {
+    "id": "T-1003",
+    "customer_id": "C-103",
+    "created": "2026-09-22",
+    "subject": "UNACCEPTABLE!!! Dark mode colors",
+    "body": "The new dark mode colors are ugly and hard to read. Change them back IMMEDIATELY."
+  },
+  {
+    "id": "T-1004",
+    "customer_id": "C-104",
+    "created": "2026-09-22",
+    "subject": "Small thing: CSV export dates",
+    "body": "Minor issue, the dates in CSV exports come out as MM/DD instead of YYYY-MM-DD. Our finance team uses these exports for quarter close next week."
+  },
+  {
+    "id": "T-1005",
+    "customer_id": "C-101",
+    "created": "2026-09-23",
+    "subject": "How do I add a teammate?",
+    "body": "Can't find where to invite a new user to our workspace."
+  },
+  {
+    "id": "T-1006",
+    "customer_id": "C-105",
+    "created": "2026-09-21",
+    "subject": "Charged twice this month",
+    "body": "Our card was billed twice for September. Please refund the duplicate."
+  },
+  {
+    "id": "T-1007",
+    "customer_id": "C-999",
+    "created": "2026-09-23",
+    "subject": "API returning 500 errors intermittently",
+    "body": "About 1 in 10 calls to /v2/orders returns a 500 since yesterday."
+  },
+  {
+    "id": "T-1008",
+    "customer_id": "C-103",
+    "created": "2026-09-20",
+    "subject": "Feature request: emoji reactions",
+    "body": "Would love emoji reactions on comments."
+  }
+]
